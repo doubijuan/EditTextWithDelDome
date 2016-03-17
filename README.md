@@ -103,3 +103,4 @@ public class EditTextWithDel extends EditText {
     }
 }
 ```
+setDrawable()方法，setCompoundDrawablesWithIntrinsicBounds(Drawable left, Drawable top, Drawable right, Drawable bottom)来在上、下、左、右设置图标，如果不想在某个地方显示，则设置为null。 
